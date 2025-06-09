@@ -1,0 +1,11 @@
+flask
+flask-cors
+langchain
+langchain-core
+langchain-community
+langchain-groq
+numpy
+pickle5
+huggingface-hub
+transformers
+scikit-learn
