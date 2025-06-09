@@ -5,7 +5,7 @@ langchain-core
 langchain-community
 langchain-groq
 numpy
-pickle5
+pickle
 huggingface-hub
 transformers
 scikit-learn
