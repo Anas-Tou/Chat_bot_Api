@@ -9,3 +9,4 @@ pickle5
 huggingface-hub
 transformers
 scikit-learn
+gunicorn
